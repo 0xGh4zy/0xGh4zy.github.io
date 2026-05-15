@@ -1,0 +1,18 @@
+.rtl-post {
+  direction: rtl;
+  text-align: right;
+}
+
+.rtl-post p,
+.rtl-post li,
+.rtl-post blockquote {
+  direction: rtl;
+  text-align: right;
+}
+
+.rtl-post pre,
+.rtl-post code,
+.rtl-post table {
+  direction: ltr;
+  text-align: left;
+}
